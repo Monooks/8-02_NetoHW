@@ -45,7 +45,9 @@
 
 ### ОТВЕТ:
 
-выполнение в процессе.....
+![Скриншот-4](https://github.com/Monooks/8-02_NetoHW/blob/main/img/8.02_4.png)
+![Скриншот-5](https://github.com/Monooks/8-02_NetoHW/blob/main/img/8.02_5.png)
+![Скриншот-6](https://github.com/Monooks/8-02_NetoHW/blob/main/img/8.02_6.png)
 
 ---
 
@@ -62,8 +64,10 @@
 
 ### ОТВЕТ:
 
-выполнение в процессе.....
-
+![Скриншот-7](https://github.com/Monooks/8-02_NetoHW/blob/main/img/8.02_7.png)
+![Скриншот-8](https://github.com/Monooks/8-02_NetoHW/blob/main/img/8.02_8.png)
+![Скриншот-9](https://github.com/Monooks/8-02_NetoHW/blob/main/img/8.02_9.png)
+![Скриншот-10](https://github.com/Monooks/8-02_NetoHW/blob/main/img/8.02_10.png)
 ---
 ## Дополнительные задания* (со звёздочкой)
 
